@@ -7,7 +7,7 @@ const CONFIG = {
     btnYes: 'em muốn ăn anh cơ <3',
     btnNo: 'em  ăn dokki ',
     question:'hải phòng có nhiều món ngon sao em lại thích ăn anh zậy',
-    btnReply: 'Gửi cho anh <3',
+    btnReply: 'em iu anh',
     reply: 'vì anh ngonn',
     mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
     messDesc: 'sáng mai đi với anh nhé em iu.',
